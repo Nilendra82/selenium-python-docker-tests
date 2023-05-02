@@ -1,0 +1,42 @@
+2023-05-02 03:56:16,427 :INFO : utilities.logger :********* Test_003_Search *********
+2023-05-02 03:56:16,427 :INFO : utilities.logger :********* Test_003_Search *********
+2023-05-02 03:56:16,449 :INFO : utilities.logger :********* Verify search item page *********
+2023-05-02 03:56:16,449 :INFO : utilities.logger :********* Verify search item page *********
+2023-05-02 03:56:28,348 :INFO : utilities.logger :test_search_text test is failed
+2023-05-02 03:56:28,348 :INFO : utilities.logger :test_search_text test is failed
+2023-05-02 03:58:45,483 :INFO : utilities.logger :********* Test_003_Search *********
+2023-05-02 03:58:45,483 :INFO : utilities.logger :********* Test_003_Search *********
+2023-05-02 03:58:45,485 :INFO : utilities.logger :********* Verify search item page *********
+2023-05-02 03:58:45,485 :INFO : utilities.logger :********* Verify search item page *********
+2023-05-02 03:58:57,010 :INFO : utilities.logger :test_search_text test is passed
+2023-05-02 03:58:57,010 :INFO : utilities.logger :test_search_text test is passed
+2023-05-02 04:14:22,467 :INFO : utilities.logger :********* Test_003_Search *********
+2023-05-02 04:14:22,467 :INFO : utilities.logger :********* Test_003_Search *********
+2023-05-02 04:14:22,478 :INFO : utilities.logger :********* Verify search item page *********
+2023-05-02 04:14:22,478 :INFO : utilities.logger :********* Verify search item page *********
+2023-05-02 04:14:33,723 :INFO : utilities.logger :test_search_text test is passed
+2023-05-02 04:14:33,723 :INFO : utilities.logger :test_search_text test is passed
+2023-05-02 04:15:12,196 :INFO : utilities.logger :********* Test_003_Search *********
+2023-05-02 04:15:12,196 :INFO : utilities.logger :********* Test_003_Search *********
+2023-05-02 04:15:12,228 :INFO : utilities.logger :********* Verify search item page *********
+2023-05-02 04:15:12,228 :INFO : utilities.logger :********* Verify search item page *********
+2023-05-02 04:15:24,299 :INFO : utilities.logger :test_search_text test is passed
+2023-05-02 04:15:24,299 :INFO : utilities.logger :test_search_text test is passed
+2023-05-02 04:17:34,234 :INFO : utilities.logger :********* Test_003_Search *********
+2023-05-02 04:17:34,234 :INFO : utilities.logger :********* Test_003_Search *********
+2023-05-02 04:17:34,241 :INFO : utilities.logger :********* Verify search item page *********
+2023-05-02 04:17:34,241 :INFO : utilities.logger :********* Verify search item page *********
+2023-05-02 04:17:46,184 :INFO : utilities.logger :test_search_text test is passed
+2023-05-02 04:17:46,184 :INFO : utilities.logger :test_search_text test is passed
+2023-05-02 04:18:32,725 :INFO : utilities.logger :********* Test_003_Search *********
+2023-05-02 04:18:32,725 :INFO : utilities.logger :********* Test_003_Search *********
+2023-05-02 04:18:32,770 :INFO : utilities.logger :********* Verify search item page *********
+2023-05-02 04:18:32,770 :INFO : utilities.logger :********* Verify search item page *********
+2023-05-02 04:18:44,503 :INFO : utilities.logger :test_search_text test is passed
+2023-05-02 04:18:44,503 :INFO : utilities.logger :test_search_text test is passed
+2023-05-02 04:18:58,150 :INFO : utilities.logger :********* Test_003_Search *********
+2023-05-02 04:18:58,150 :INFO : utilities.logger :********* Test_003_Search *********
+2023-05-02 04:18:58,174 :INFO : utilities.logger :********* Verify search item page *********
+2023-05-02 04:18:58,174 :INFO : utilities.logger :********* Verify search item page *********
+2023-05-02 04:19:11,213 :INFO : utilities.logger :test_search_text test is passed
+2023-05-02 04:19:11,213 :INFO : utilities.logger :test_search_text test is passed

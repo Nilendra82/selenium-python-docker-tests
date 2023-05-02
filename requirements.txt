@@ -1,0 +1,8 @@
+html-testRunner
+py
+pytest
+pytest-html
+pytest-xdist
+selenium
+flask
+redis
